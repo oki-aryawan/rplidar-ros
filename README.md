@@ -48,6 +48,8 @@ gedit ~/.bashrc
 source /opt/ros/humble/setup.bash
 ros2 run demo_nodes_cpp talker
 ```
+ Here is the [ROS Wiki](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html) official documentation
+
 
 ## RPLidar ROS2 Package Installation
 If you search tutorials or articles to install RPLidar ROS package, the popular article may tell you to build from RPLidar repository and build in the ros2 workspace with `colcon build`, but I got another easier way to to it :))
